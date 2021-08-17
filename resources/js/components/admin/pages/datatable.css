@@ -1,0 +1,46 @@
+.table-area {
+    width: 100%;
+}
+
+#title {
+    text-align: center;
+    font-family: arial, sans-serif;
+    margin-top: 5%;
+}
+
+.table_format {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid rgb(255, 255, 255);
+    width: 90%;
+    margin: 5% 5% 5% 5%;
+}
+
+.table_format td,
+.table_format {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table_format tr:nth-child(even) {
+    background-color: #85f898;
+}
+
+.table_format tr:hover {
+    background-color: rgb(161, 0, 0);
+}
+
+.table_format th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: rgb(2, 82, 78);
+}
+
+.printarea {
+    justify-content: center;
+    align-items: center;
+    margin-left: 50%;
+}

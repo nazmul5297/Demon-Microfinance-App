@@ -1,0 +1,35 @@
+.aboutdivbg {
+    box-sizing: border-box;
+    min-height: 80vh;
+    /* background:url('./micorfinance-about.jpg') no-repeat;
+  background-size: cover; */
+    /* / opacity: 0.5;
+    / text-align: justify; */
+}
+
+h1,
+p {
+    font-weight: bolder;
+    /* / text-align: justify;
+    / / color: black;
+    / */
+}
+
+#heading {
+    text-align: center;
+}
+
+.pos {
+    float: right;
+    margin-top: 20%;
+}
+
+.container2 {
+    margin: 0px 60px;
+}
+
+@media screen and (max-width:678px) {
+    .container2 {
+        margin: 0px 0px;
+    }
+}

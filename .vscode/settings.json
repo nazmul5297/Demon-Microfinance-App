@@ -1,0 +1,7 @@
+{
+    "workbench.editorAssociations": {},
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.codeActionsOnSave": null,
+}

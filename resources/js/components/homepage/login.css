@@ -1,0 +1,24 @@
+#logindiv{
+    background-image: url('./bg.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;	
+}
+#logindiv #innerdiv{
+    background: white;
+      border-radius: 15px;
+}
+#logindiv #innerdiv::hover{
+     background: white;
+      border-radius: 15px;
+      box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.formdiv{
+      height:300px;
+      width:300px;
+      margin-left:20px;
+ }
+ .formdiv input,label{
+     margin:30px 10px; 
+     border-radius: 4px;
+ }

@@ -1,0 +1,12 @@
+.carousel-item{
+    height:85vh;
+    min-height: 70%;
+    background:no-repeat center scroll center;
+    -webkit-background-size:cover ;
+    background-size: cover;
+}
+@media screen and (max-width:678) {
+ img{
+    height: -webkit-fill-available;
+  }
+}

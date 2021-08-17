@@ -1,0 +1,17 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('./bglogin.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+.loginradius{
+  border-radius: 10px;
+}
+.customHover:hover{
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
